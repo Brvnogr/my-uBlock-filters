@@ -1,3 +1,7 @@
+! Title: Brvnogr filters
+! Updated: 02/05/2022
+! Licence: MIT
+!
 ! https://outlook.live.com
 outlook.live.com##.tTgHIN4ds5wb34dD3UQq
 outlook.live.com##.AK_mylzu6VA12_DCpmXg > .pBKjVBVDRKIDHWS0A95I > .PQ3t8NujdxAKy8T98Uyj
