@@ -1,0 +1,29 @@
+! https://outlook.live.com
+outlook.live.com##.tTgHIN4ds5wb34dD3UQq
+outlook.live.com##.AK_mylzu6VA12_DCpmXg > .pBKjVBVDRKIDHWS0A95I > .PQ3t8NujdxAKy8T98Uyj
+outlook.live.com##.AK_mylzu6VA12_DCpmXg > .pBKjVBVDRKIDHWS0A95I
+
+! https://onedrive.live.com
+onedrive.live.com##.od-PremiumUpsellBanner-details
+onedrive.live.com###od-PremiumUpsellBanner-LeftNav-header
+
+! https://brasil.elpais.com
+brasil.elpais.com##.clearfix.a_c > ._cf.a_r
+
+! https://www.fazenda.sp.gov.br
+www.fazenda.sp.gov.br###popup_container
+www.fazenda.sp.gov.br###popup_overlay
+www.fazenda.sp.gov.br##.overlay
+
+! https://www.opovo.com.br
+www.opovo.com.br##.cta-interna
+
+! https://www.youtube.com
+youtube.com##.ytp-ce-element
+
+! https://www.olx.com.br
+www.olx.com.br##.gKEBAH.sc-bGbJRg
+
+! https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.lepySq.Button-y0gtbx-0
+open.spotify.com##.WvLkmOVB2R2vzI2ibR_r.eNs6P3JYpf2LScgTDHc6 > .ATUzFKub89lzvkmvhpyE.link-subtle
