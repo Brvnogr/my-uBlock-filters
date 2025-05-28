@@ -1,48 +1,57 @@
 ! Title: Brvnogr filters
 ! Updated: 02/05/2022
 ! Licence: MIT
-!
-! https://outlook.live.com
-outlook.live.com##.tTgHIN4ds5wb34dD3UQq
-outlook.live.com##.AK_mylzu6VA12_DCpmXg > .pBKjVBVDRKIDHWS0A95I > .PQ3t8NujdxAKy8T98Uyj
-outlook.live.com##.AK_mylzu6VA12_DCpmXg > .pBKjVBVDRKIDHWS0A95I
-outlook.live.com##.tTgHI
 
-! https://onedrive.live.com
-onedrive.live.com##.od-PremiumUpsellBanner-details
-onedrive.live.com###od-PremiumUpsellBanner-LeftNav-header
-
-! https://brasil.elpais.com
-brasil.elpais.com##.clearfix.a_c > ._cf.a_r
-
-! https://www.fazenda.sp.gov.br
-www.fazenda.sp.gov.br###popup_container
-www.fazenda.sp.gov.br###popup_overlay
-www.fazenda.sp.gov.br##.overlay
-
-! https://www.opovo.com.br
-www.opovo.com.br##.cta-interna
-
-! https://www.youtube.com
-youtube.com##.ytp-ce-element
-
-! https://www.olx.com.br
-www.olx.com.br##.gKEBAH.sc-bGbJRg
-sp.olx.com.br##.lopRTQ.VasInternetCheck__Wrapper-sc-tpz5n9-0
-
-! https://open.spotify.com
-open.spotify.com##.Upqw01TOXETOmR5Td7Dj.lepySq.Button-y0gtbx-0
-open.spotify.com##.WvLkmOVB2R2vzI2ibR_r.eNs6P3JYpf2LScgTDHc6 > .ATUzFKub89lzvkmvhpyE.link-subtle
-open.spotify.com##.Upqw01TOXETOmR5Td7Dj.jjUWAm.Button-y0gtbx-0
-open.spotify.com##li.DuEPSADpSwCcO880xjUG:nth-of-type(3)
-
-! https://g1.globo.com
-g1.globo.com###wp3-player-2 > .player-error > .player-error__content
-g1.globo.com###wp3-player-2 > .player-error > .player-error__background-overlay
-g1.globo.com###wp3-player-2 > .player-error
-
-
-! https://webmail.sap.sp.gov.br
+! 2023-06-17 https://webmail.sap.sp.gov.br
 ||webmail.sap.sp.gov.br/img/logogov200.png$image
-||webmail.sap.sp.gov.br/img/logogov.png$image
-webmail.sap.sp.gov.br###bannerLink
+
+! 2023-06-25 https://www.aliexpress.com
+www.aliexpress.com###J_xiaomi_dialog
+
+! 2023-08-08 https://sso.acesso.gov.br
+||sso.acesso.gov.br/assets/govbr/img/conta_govbr_v2.jpg$image
+sso.acesso.gov.br##aside
+
+! 2023-08-20 https://www.youtube.com
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+
+! 2023-09-23 https://www.olx.com.br
+www.olx.com.br##.kqDhlG.sc-7e445030-0
+
+! 2024-04-17 https://drive.google.com
+drive.google.com##.a-da-NvARYc.a-U-ye
+
+! 2024-04-17 https://www.elamigos-games.net
+www.elamigos-games.net##.alert-warning.alert
+
+! 2024-05-29 https://meu.inss.gov.br
+meu.inss.gov.br###omni-hide-chat-button
+
+! 8 de ago. de 2024 https://www.youtube.com
+www.youtube.com###content-wrapper
+www.youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+
+! 17 de fev. de 2025 https://sei.sp.gov.br
+sei.sp.gov.br##.iconDebugScreen.brancoColor.fa-bug.fas
+sei.sp.gov.br##.brancoColor.fa-palette.fas
+sei.sp.gov.br###controlSlimPro
+||sei.sp.gov.br/sei/svg/novidades.svg$image
+
+! 18 de mar. de 2025 https://mail.google.com
+mail.google.com##.wKxlIc
+mail.google.com##.brC-aMv-auO.brC-dA-I-Jw
+
+! 24 de mar. de 2025 https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-9640-button--small.encore-inverted-light-set.e-9640-button-primary__inner.e-9640-overflow-wrap-anywhere.e-9640-baseline
+open.spotify.com##.e-9640-button--leading.e-9640-button--small.e-9640-overflow-wrap-anywhere.encore-text-body-small-bold.hgbBnc.Button-sc-1dqy6lx-0
+
+! 24 de mar. de 2025 https://www.contabilizasp.fazenda.sp.gov.br
+www.contabilizasp.fazenda.sp.gov.br##div:nth-of-type(9) > [href^="https://contabiliza-siafem.fazenda.sp.gov.br/SiafNet/logout.xhtml"]
+www.contabilizasp.fazenda.sp.gov.br##[href^="https://www.contabilizasp.fazenda.sp.gov.br/SIAFEMNET/SIAFEM/tutoriais/Tutorial01.aspx"]
+www.contabilizasp.fazenda.sp.gov.br##[href^="http://contabilizasp.blogspot.com.br"]
+www.contabilizasp.fazenda.sp.gov.br##[href^="https://www.contabilizasp.fazenda.sp.gov.br/SIAFEMNET/SIAFEM/Publico/DownloadDocumentacaoSiafem.aspx"]
+www.contabilizasp.fazenda.sp.gov.br##[href^="https://www.contabilizasp.fazenda.sp.gov.br/SIAFEMNET/SIAFEM/Publico/ComunicadoTerminalSiafem.aspx"]
+www.contabilizasp.fazenda.sp.gov.br###showmenu03
+
+! 2 de abr. de 2025 https://onedrive.live.com
+onedrive.live.com##.bannerGleam_860752dd.storageUpsellBanner_860752dd
