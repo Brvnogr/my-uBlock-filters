@@ -1,5 +1,5 @@
 # my-uBlock-filters
-Esta é a minha lista pessoal de filtros. Ela funciona através do bloqueio de elementos que atrapalham a leitura e a estética da página. Feito para utilizar em bloqueadores de conteúdo como o [uBlock Origins] (https://github.com/gorhill/uBlock) ou o Adblock Plus.
+Esta é a minha lista pessoal de filtros. Ela funciona através do bloqueio de elementos que atrapalham a leitura e a estética da página. Feito para utilizar em bloqueadores de conteúdo como o [uBlock Origin] (https://github.com/gorhill/uBlock) ou o Adblock Plus.
 
 > __Nota:__ Por se tratar de uma lista pessoal, talvez bloqueie elementos que você não gostaria, use por sua conta em risco!
 
